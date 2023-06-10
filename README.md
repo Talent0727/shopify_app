@@ -16,7 +16,6 @@ This gem builds Rails applications that can be embedded in the Shopify Admin.
 
 
 ## Introduction
-
 This gem includes a Rails engine, generators, modules, and mixins that help create Rails applications that work with Shopify APIs. The [Shopify App Rails engine](/docs/shopify_app/engine.md) provides all the code required to implement OAuth with Shopify. The [default Shopify App generator](/docs/shopify_app/generators.md#-environment-rails-generate-shopify_app) builds an app that can be embedded in the Shopify Admin and secures it with [session tokens](https://shopify.dev/concepts/apps/building-embedded-apps-using-session-tokens).
 
 <!-- This section is linked to in `templates/shopify_app.rb.tt`. Be careful renaming this heading. -->
